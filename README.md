@@ -9,6 +9,9 @@ PAAS :)
 
 https://hyper.sh/ Hypervisor-agnostic Docker engine. Make VMs run like Containers
 
+https://stacksmith.bitnami.com/
+Create custom container images in minutes via web.
+
 
 ##  Orchestrators
 https://brooklyn.incubator.apache.org/learnmore.html 
