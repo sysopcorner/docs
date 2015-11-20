@@ -189,5 +189,7 @@ Confidant solves the authentication chicken and egg problem by using AWS KMS and
 https://github.com/coreos/clair
 Clair is a container vulnerability analysis service. It provides the list of vulnerabilities that threaten each container and can sends notifications whenever new vulnerabilities that affect existing containers are released.
 
+https://github.com/fugue/credstash
+CredStash icredentials mgment and distrib system that uses AWS Key Management Service (KMS) for key wrapping and master-key storage, and DynamoDB for credential storage and sharing.
 
 
