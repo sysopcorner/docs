@@ -170,6 +170,10 @@ http://stackstorm.com/ - wires together your legos
 
 http://www.pipefy.com/ It helps companies to be always organized
 
+## Mobile
+https://developers.google.com/cloud-messaging/
+Send data from your server to your users' devices, and receive messages from devices on the same connection. The GCM service handles all aspects of queueing of messages and delivery to client applications running on target devices, and it is completely free.
+
 
 ## Security / PCI DSS 
 http://cloudacademy.com/blog/how-to-make-your-infrastructure-compliant-with-pci-dss-on-aws/
@@ -178,5 +182,9 @@ https://vaultproject.io/ A tool for managing secrets.
 
 https://lyft.github.io/confidant/
 Confidant solves the authentication chicken and egg problem by using AWS KMS and IAM to allow IAM roles to generate secure authentication tokens that can be verified by Confidant.
+
+https://github.com/coreos/clair
+Clair is a container vulnerability analysis service. It provides the list of vulnerabilities that threaten each container and can sends notifications whenever new vulnerabilities that affect existing containers are released.
+
 
 
