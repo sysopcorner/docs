@@ -13,6 +13,8 @@ https://stacksmith.bitnami.com/
 Create custom container images in minutes via web.
 
 
+
+
 ##  Orchestrators
 https://brooklyn.incubator.apache.org/learnmore.html 
 Brooklyn is built for the cloud, and will take a blueprint and deploy it to one of many supported clouds or even to multiple different clouds, or to private infrastructure (bring-your-own-node), or to other platforms. It will dynamically configure and connect all the different components of an application, e.g. so load balancers know where the web servers are and the web applications know where the database is.
@@ -37,7 +39,8 @@ better CloudFormation
 
 http://dkron.io/ - Distributed job schedulling
 
-
+https://www.fugue.co/
+PAAS on AWS?
 
 ## Machine learning
 
