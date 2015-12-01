@@ -42,6 +42,9 @@ http://dkron.io/ - Distributed job schedulling
 https://www.fugue.co/
 PAAS on AWS?
 
+http://spinnaker.io/
+Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
+
 ## Machine learning
 
 https://siftscience.com/
