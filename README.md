@@ -181,6 +181,10 @@ http://www.pipefy.com/ It helps companies to be always organized
 
 http://raml.org/ - RESTful API Modeling Language (RAML) makes it easy to manage the whole API lifecycle from design to sharing.
 
+http://rickbergfalk.github.io/sqlpad/ - Run SQL in your browser...
+
+http://pouchdb.com/ - PouchDB was created to help web developers build applications that work as well offline as they do online.
+
 ## Mobile
 https://developers.google.com/cloud-messaging/
 Send data from your server to your users' devices, and receive messages from devices on the same connection. The GCM service handles all aspects of queueing of messages and delivery to client applications running on target devices, and it is completely free.
