@@ -117,6 +117,10 @@ An open-source service monitoring system and time series database.
 https://bigpanda.io/monitoringscape/
 reach monitoring list
 
+https://github.com/Netflix/vector high resolution system and application metrics to every engineer’s browser (like kibana connecting to hosts)
+
+http://www.pcp.io/ Performance Co-Pilot (a.k.a. PCP) is an open source infrastructure for monitoring, visualizing, recording, responding to, and controlling the status, activity, and performance of networks, computers, applications, and servers.
+
 ## Remote Access
 http://guac-dev.org/
 Guacamole is a clientless remote desktop gateway.
