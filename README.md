@@ -121,6 +121,8 @@ https://github.com/Netflix/vector high resolution system and application metrics
 
 http://www.pcp.io/ Performance Co-Pilot (a.k.a. PCP) is an open source infrastructure for monitoring, visualizing, recording, responding to, and controlling the status, activity, and performance of networks, computers, applications, and servers.
 
+http://www.sysdig.org/ - system-level exploration: capture system state and activity from a running Linux instance, then save, filter and analyze
+
 ## Remote Access
 http://guac-dev.org/
 Guacamole is a clientless remote desktop gateway.
@@ -188,6 +190,8 @@ http://raml.org/ - RESTful API Modeling Language (RAML) makes it easy to manage 
 http://rickbergfalk.github.io/sqlpad/ - Run SQL in your browser...
 
 http://pouchdb.com/ - PouchDB was created to help web developers build applications that work as well offline as they do online.
+
+https://github.com/tripit/slate - Slate helps you create beautiful API documentation.
 
 ## Mobile
 https://developers.google.com/cloud-messaging/
