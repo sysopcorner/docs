@@ -193,6 +193,8 @@ http://pouchdb.com/ - PouchDB was created to help web developers build applicati
 
 https://github.com/tripit/slate - Slate helps you create beautiful API documentation.
 
+https://github.com/Yelp/dumb-init - dumb-init is a simple process supervisor and init system designed to run as PID 1 inside minimal container environments (such as Docker).
+
 ## Mobile
 https://developers.google.com/cloud-messaging/
 Send data from your server to your users' devices, and receive messages from devices on the same connection. The GCM service handles all aspects of queueing of messages and delivery to client applications running on target devices, and it is completely free.
