@@ -47,6 +47,8 @@ PAAS on AWS?
 http://spinnaker.io/
 Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 
+http://oneops.com/index.html  - OneOps enables continuous lifecycle management of complex, business-critical application workloads on any cloud-based infrastructure. Made by Walmart
+
 ## Machine learning
 
 https://siftscience.com/
