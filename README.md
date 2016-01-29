@@ -12,7 +12,9 @@ https://hyper.sh/ Hypervisor-agnostic Docker engine. Make VMs run like Container
 https://stacksmith.bitnami.com/
 Create custom container images in minutes via web.
 
+https://github.com/gophergala2016/meshbird/ - istributed private networking between servers, containers, virtual machines and any computers in different datacenters, different countries, different cloud providers using DHT (Distributed Hash Table)
 
+https://github.com/coreos/flannel/ - private networking with etcd as a peer backend
 
 
 ##  Orchestrators
