@@ -146,6 +146,8 @@ GoTTY is a simple command line tool that turns your CLI tools into web applicati
 https://github.com/hipache/hipache
 Hipache: a distributed HTTP and websocket proxy
 
+https://github.com/google/seesaw - Google LoadBalancer written in Go based on LVS
+
 ## Log management
 https://github.com/ezotrank/logsend
 fast logparser in go
