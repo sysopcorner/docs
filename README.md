@@ -53,6 +53,8 @@ Spinnaker is an open source, multi-cloud continuous delivery platform for releas
 
 http://oneops.com/index.html  - OneOps enables continuous lifecycle management of complex, business-critical application workloads on any cloud-based infrastructure. Made by Walmart
 
+http://fabric8.io/ - Fabric8 is an integrated open source DevOps and Integration Platform which works out of the box on any Kubernetes or OpenShift environment and provides Continuous Delivery, Management, ChatOps and a Chaos Monkey. by RedHat
+
 ## Machine learning
 
 https://siftscience.com/
