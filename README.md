@@ -16,6 +16,10 @@ https://github.com/gophergala2016/meshbird/ - istributed private networking betw
 
 https://github.com/coreos/flannel/ - private networking with etcd as a peer backend
 
+https://github.com/serverless/serverless - Serverless is the application framework for building serverless web, mobile and IoT applications (JAAWS)
+
+https://convox.com/ - Build, deploy, and manage applications with ease (auto gen Dockerfiles based on lang detected)
+
 
 ##  Orchestrators
 https://brooklyn.incubator.apache.org/learnmore.html 
@@ -222,3 +226,5 @@ https://github.com/Netflix/Fido - FIDO’s primary purpose is to handle the heav
 
 
 http://resources.infosecinstitute.com/14-popular-web-application-vulnerability-scanners/
+
+https://github.com/toolswatch/vFeed - vFeed Framework is a CVE, CWE and OVAL Compatible naming scheme concept that provides extra structured detailed third-party references and technical characteristics for a CVE entry through an extensible XML/JSON schema
