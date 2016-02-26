@@ -232,3 +232,5 @@ https://github.com/Netflix/Fido - FIDO’s primary purpose is to handle the heav
 http://resources.infosecinstitute.com/14-popular-web-application-vulnerability-scanners/
 
 https://github.com/toolswatch/vFeed - vFeed Framework is a CVE, CWE and OVAL Compatible naming scheme concept that provides extra structured detailed third-party references and technical characteristics for a CVE entry through an extensible XML/JSON schema
+
+https://keeweb.info/ - Free cross-platform password manager compatible with KeePass
