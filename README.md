@@ -133,6 +133,9 @@ http://www.pcp.io/ Performance Co-Pilot (a.k.a. PCP) is an open source infrastru
 
 http://www.sysdig.org/ - system-level exploration: capture system state and activity from a running Linux instance, then save, filter and analyze
 
+https://github.com/firehol/netdata - Real-time performance monitoring, done right!
+
+
 ## Remote Access
 http://guac-dev.org/
 Guacamole is a clientless remote desktop gateway.
