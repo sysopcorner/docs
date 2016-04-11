@@ -55,6 +55,8 @@ http://oneops.com/index.html  - OneOps enables continuous lifecycle management o
 
 http://fabric8.io/ - Fabric8 is an integrated open source DevOps and Integration Platform which works out of the box on any Kubernetes or OpenShift environment and provides Continuous Delivery, Management, ChatOps and a Chaos Monkey. by RedHat
 
+http://rancher.com/ - A Complete Platform for Running Containers - awsome one!
+
 ## Machine learning
 
 https://siftscience.com/
