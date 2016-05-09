@@ -20,6 +20,8 @@ https://github.com/serverless/serverless - Serverless is the application framewo
 
 https://convox.com/ - Build, deploy, and manage applications with ease (auto gen Dockerfiles based on lang detected)
 
+http://gradle.org/ - APP build automatization tool.
+
 
 ##  Orchestrators
 https://brooklyn.incubator.apache.org/learnmore.html 
@@ -241,3 +243,5 @@ http://resources.infosecinstitute.com/14-popular-web-application-vulnerability-s
 https://github.com/toolswatch/vFeed - vFeed Framework is a CVE, CWE and OVAL Compatible naming scheme concept that provides extra structured detailed third-party references and technical characteristics for a CVE entry through an extensible XML/JSON schema
 
 https://keeweb.info/ - Free cross-platform password manager compatible with KeePass
+
+https://www.bro.org/ - Bro is a powerful network analysis framework that is much different from the typical IDS you may know. 
