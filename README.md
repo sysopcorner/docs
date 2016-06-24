@@ -247,3 +247,8 @@ https://keeweb.info/ - Free cross-platform password manager compatible with KeeP
 https://www.bro.org/ - Bro is a powerful network analysis framework that is much different from the typical IDS you may know. 
 
 https://gist.github.com/maxvt/bb49a6c7243163b8120625fc8ae3f3cd - Irastructure Secret Management Software Overview
+
+
+## CI/CD
+https://www.go.cd/ 
+https://concourse.ci/ - config in yaml files
