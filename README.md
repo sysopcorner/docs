@@ -22,6 +22,7 @@ https://convox.com/ - Build, deploy, and manage applications with ease (auto gen
 
 http://gradle.org/ - APP build automatization tool.
 
+https://github.com/ciscocloud/mantl - mesos with logs/monitoring, etc by cisco
 
 ##  Orchestrators
 https://brooklyn.incubator.apache.org/learnmore.html 
