@@ -260,3 +260,6 @@ https://concourse.ci/ - config in yaml files
 ## DPDK stuff
 http://www.seastar-project.org/ - Seastar is an advanced, open-source C++ framework for high-performance server applications on modern hardware.
 http://www.scylladb.com/ - NoSQL column store database Cassandra compatible based on DPDK
+
+## AWS
+https://github.com/PriceBoardIn/aws-elk-billing - AWS biling ok ELK
