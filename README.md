@@ -256,3 +256,7 @@ https://gist.github.com/maxvt/bb49a6c7243163b8120625fc8ae3f3cd - Irastructure Se
 ## CI/CD
 https://www.go.cd/ 
 https://concourse.ci/ - config in yaml files
+
+## DPDK stuff
+http://www.seastar-project.org/ - Seastar is an advanced, open-source C++ framework for high-performance server applications on modern hardware.
+http://www.scylladb.com/ - NoSQL column store database Cassandra compatible based on DPDK
