@@ -142,6 +142,7 @@ https://github.com/firehol/netdata - Real-time performance monitoring, done righ
 
 https://github.com/forward3d/uphold - automatic DB backup tests
 
+https://github.com/Yelp/elastalert - alerts based on elasticsarch data
 
 ## Remote Access
 http://guac-dev.org/
