@@ -164,6 +164,8 @@ Hipache: a distributed HTTP and websocket proxy
 
 https://github.com/google/seesaw - Google LoadBalancer written in Go based on LVS
 
+https://github.com/twitter/twemproxy - redis/memcache load balancer + zero copy
+
 ## Log management
 https://github.com/ezotrank/logsend
 fast logparser in go
