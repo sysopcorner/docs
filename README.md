@@ -103,6 +103,10 @@ ELK stack on AWS
 
 https://medium.com/aws-activate-startup-blog/high-availability-for-mere-mortals-37edab2fd0f9 - how to count availability..
 
+http://steveadams.io/2016/08/03/AMI-to-Docker.html - Ami to docker.
+
+https://medium.com/@eon01/easy-docker-orchestration-with-docker-1-12-aws-efs-and-the-swarm-mode-87d51b6d5ad2 - docker + EFS
+
 
 ## Monitoring/Diagnostic Tools
 https://github.com/draios/sysdig/wiki/Sysdig%20Examples
