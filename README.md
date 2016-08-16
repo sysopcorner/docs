@@ -280,3 +280,4 @@ http://www.scylladb.com/ - NoSQL column store database Cassandra compatible base
 
 ## AWS
 https://github.com/PriceBoardIn/aws-elk-billing - AWS biling ok ELK
+https://github.com/svolpe43/cfsh - CloudFormation in bash !
