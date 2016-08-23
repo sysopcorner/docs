@@ -281,3 +281,7 @@ http://www.scylladb.com/ - NoSQL column store database Cassandra compatible base
 ## AWS
 https://github.com/PriceBoardIn/aws-elk-billing - AWS biling ok ELK
 https://github.com/svolpe43/cfsh - CloudFormation in bash !
+https://boxfuse.com/ - Test on VirtualBox, deploy atomically to AWS
+
+## DB tools
+https://flywaydb.org/ - Evolve your Database Schema easily and reliably across all your instances
