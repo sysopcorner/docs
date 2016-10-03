@@ -282,6 +282,18 @@ http://www.scylladb.com/ - NoSQL column store database Cassandra compatible base
 https://github.com/PriceBoardIn/aws-elk-billing - AWS biling ok ELK
 https://github.com/svolpe43/cfsh - CloudFormation in bash !
 https://boxfuse.com/ - Test on VirtualBox, deploy atomically to AWS
+https://github.com/awslabs/aws-shell
+
+### CloudFormation
+https://github.com/stelligent/cloudformation_templates
+http://www.sparkleformation.io/ - multi cloud CloufFormation
+https://github.com/cloudtools/troposphere - python library to create AWS CloudFormation
+https://github.com/bazaarvoice/cloudformation-ruby-dsl
+https://github.com/frontrowed/stratosphere - AWS CloudFormation in Haskell
+https://github.com/stevenjack/cfndsl
+https://github.com/monken/cfn-include cfn-include is a preprocessor that extends CloudFormation's intrinsic functions. 
 
 ## DB tools
 https://flywaydb.org/ - Evolve your Database Schema easily and reliably across all your instances
+liquidbase
+
