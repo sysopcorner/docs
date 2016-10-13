@@ -283,6 +283,7 @@ https://github.com/PriceBoardIn/aws-elk-billing - AWS biling ok ELK
 https://github.com/svolpe43/cfsh - CloudFormation in bash !
 https://boxfuse.com/ - Test on VirtualBox, deploy atomically to AWS
 https://github.com/awslabs/aws-shell
+https://github.com/open-guides/og-aws - AWS open guides/tips/gotchas
 
 ### CloudFormation
 https://github.com/stelligent/cloudformation_templates
