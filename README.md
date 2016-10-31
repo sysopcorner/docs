@@ -25,7 +25,7 @@ http://gradle.org/ - APP build automatization tool.
 https://github.com/ciscocloud/mantl - mesos with logs/monitoring, etc by cisco
 
 ##  Orchestrators
-https://brooklyn.incubator.apache.org/learnmore.html 
+https://brooklyn.incubator.apache.org/learnmore.html
 Brooklyn is built for the cloud, and will take a blueprint and deploy it to one of many supported clouds or even to multiple different clouds, or to private infrastructure (bring-your-own-node), or to other platforms. It will dynamically configure and connect all the different components of an application, e.g. so load balancers know where the web servers are and the web applications know where the database is.
 
 https://mesosphere.github.io/marathon/
@@ -122,7 +122,7 @@ http://www.panopta.com/
 pingdom + pagerduty/victorops in one
 
 http://flapjack.io
-monitoring notification routing + event processing system 
+monitoring notification routing + event processing system
 
 https://www.twilio.com/
 Build the next generation of Voice and SMS applications
@@ -234,7 +234,7 @@ https://developers.google.com/cloud-messaging/
 Send data from your server to your users' devices, and receive messages from devices on the same connection. The GCM service handles all aspects of queueing of messages and delivery to client applications running on target devices, and it is completely free.
 
 
-## Security / PCI DSS 
+## Security / PCI DSS
 http://cloudacademy.com/blog/how-to-make-your-infrastructure-compliant-with-pci-dss-on-aws/
 
 https://vaultproject.io/ A tool for managing secrets.
@@ -257,13 +257,13 @@ https://github.com/toolswatch/vFeed - vFeed Framework is a CVE, CWE and OVAL Com
 
 https://keeweb.info/ - Free cross-platform password manager compatible with KeePass
 
-https://www.bro.org/ - Bro is a powerful network analysis framework that is much different from the typical IDS you may know. 
+https://www.bro.org/ - Bro is a powerful network analysis framework that is much different from the typical IDS you may know.
 
 https://gist.github.com/maxvt/bb49a6c7243163b8120625fc8ae3f3cd - Irastructure Secret Management Software Overview
 
 
 ## CI/CD
-https://www.go.cd/ 
+https://www.go.cd/
 https://concourse.ci/ - config in yaml files
 
 
@@ -292,9 +292,14 @@ https://github.com/cloudtools/troposphere - python library to create AWS CloudFo
 https://github.com/bazaarvoice/cloudformation-ruby-dsl
 https://github.com/frontrowed/stratosphere - AWS CloudFormation in Haskell
 https://github.com/stevenjack/cfndsl
-https://github.com/monken/cfn-include cfn-include is a preprocessor that extends CloudFormation's intrinsic functions. 
+https://github.com/monken/cfn-include cfn-include is a preprocessor that extends CloudFormation's intrinsic functions.
 
 ## DB tools
 https://flywaydb.org/ - Evolve your Database Schema easily and reliably across all your instances
 liquidbase
 
+
+## Remote works
+https://github.com/lukasz-madon/awesome-remote-job#job-boards - lots of links
+https://www.corpinfo.com/careers/ - some guys from reddit
+https://weworkremotely.com/categories/6-devops-sysadmin/jobs#intro - remote DevOps work
