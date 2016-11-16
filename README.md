@@ -148,6 +148,12 @@ https://github.com/forward3d/uphold - automatic DB backup tests
 
 https://github.com/Yelp/elastalert - alerts based on elasticsarch data
 
+https://www.atatus.com/ - application monitoring (NR alternatives)
+
+https://dripstat.com/ - JVM APM
+
+http://chrononsystems.com/ - Chronon records every change made by every single line of code in your program while it is executing
+
 ## Remote Access
 http://guac-dev.org/
 Guacamole is a clientless remote desktop gateway.
@@ -284,6 +290,11 @@ https://github.com/svolpe43/cfsh - CloudFormation in bash !
 https://boxfuse.com/ - Test on VirtualBox, deploy atomically to AWS
 https://github.com/awslabs/aws-shell
 https://github.com/open-guides/og-aws - AWS open guides/tips/gotchas
+https://nccgroup.github.io/Scout2/ - security auditing tool
+https://github.com/eawsy/aws-lambda-go-net - execute Go web applications on AWS Lambda and AWS API Gateway
+https://github.com/widdix/aws-cf-templates/tree/master/wordpress - wordpress on AWS - using EFS
+https://alestic.com/2016/10/aws-git-backed-static-website/ - aws git bakcked static website - lowcost
+https://cloudonaut.io/improve-aws-security-protect-your-keys-with-ease/ - multiFA aws credentials
 
 ### CloudFormation
 https://github.com/stelligent/cloudformation_templates
