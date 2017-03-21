@@ -295,6 +295,7 @@ https://github.com/eawsy/aws-lambda-go-net - execute Go web applications on AWS 
 https://github.com/widdix/aws-cf-templates/tree/master/wordpress - wordpress on AWS - using EFS
 https://alestic.com/2016/10/aws-git-backed-static-website/ - aws git bakcked static website - lowcost
 https://cloudonaut.io/improve-aws-security-protect-your-keys-with-ease/ - multiFA aws credentials
+https://stp5.net/blog/post/secrets-in-aws/ - Secrets in AWS
 
 ### CloudFormation
 https://github.com/stelligent/cloudformation_templates
