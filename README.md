@@ -318,3 +318,7 @@ liquidbase
 https://github.com/lukasz-madon/awesome-remote-job#job-boards - lots of links
 https://www.corpinfo.com/careers/ - some guys from reddit
 https://weworkremotely.com/categories/6-devops-sysadmin/jobs#intro - remote DevOps work
+
+
+## Serverless
+https://github.com/alestic/lambdash - run shell in lambda
