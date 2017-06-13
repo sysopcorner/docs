@@ -267,6 +267,8 @@ https://www.bro.org/ - Bro is a powerful network analysis framework that is much
 
 https://gist.github.com/maxvt/bb49a6c7243163b8120625fc8ae3f3cd - Irastructure Secret Management Software Overview
 
+https://github.com/gentilkiwi/mimikatz - A little tool to play with Windows security
+
 
 ## CI/CD
 https://www.go.cd/
