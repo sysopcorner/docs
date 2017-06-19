@@ -273,6 +273,7 @@ https://github.com/gentilkiwi/mimikatz - A little tool to play with Windows secu
 ## CI/CD
 https://www.go.cd/
 https://concourse.ci/ - config in yaml files
+https://github.com/lambci/lambci - CI in Lambda
 
 
 ### Tests
