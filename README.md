@@ -268,6 +268,7 @@ https://www.bro.org/ - Bro is a powerful network analysis framework that is much
 https://gist.github.com/maxvt/bb49a6c7243163b8120625fc8ae3f3cd - Irastructure Secret Management Software Overview
 
 https://github.com/gentilkiwi/mimikatz - A little tool to play with Windows security
+https://github.com/Netflix/bless - SSH Certificate Authority that runs as a AWS Lambda function
 
 
 ## CI/CD
@@ -281,6 +282,9 @@ http://robotframework.org/ - Robot Framework is a generic test automation framew
 https://ghostinspector.com/ - Automated UI Testing Made Easy - record via chrome addon
 https://github.com/chef/inspec - testing framework for infrastructure
 http://serverspec.org/ - With Serverspec, you can write RSpec tests for checking your servers are configured correctly.
+https://github.com/k1LoW/awspec - sepecs for AWS
+https://github.com/aelsabbahy/goss - Quick and Easy server testing/validation (GO)
+https://github.com/philpep/testinfra - Testinfra test your infrastructures (python)
 
 
 ## DPDK stuff
