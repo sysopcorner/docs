@@ -270,6 +270,8 @@ https://gist.github.com/maxvt/bb49a6c7243163b8120625fc8ae3f3cd - Irastructure Se
 https://github.com/gentilkiwi/mimikatz - A little tool to play with Windows security
 https://github.com/Netflix/bless - SSH Certificate Authority that runs as a AWS Lambda function
 
+https://github.com/toniblyx/prowler - Tool based on AWS-CLI commands for AWS account hardening
+
 
 ## CI/CD
 https://www.go.cd/
