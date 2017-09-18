@@ -306,6 +306,12 @@ https://alestic.com/2016/10/aws-git-backed-static-website/ - aws git bakcked sta
 https://cloudonaut.io/improve-aws-security-protect-your-keys-with-ease/ - multiFA aws credentials
 https://stp5.net/blog/post/secrets-in-aws/ - Secrets in AWS
 https://www.linkedin.com/groups/6814264/6814264-6228648338527383555 - Cert materials
+https://github.com/kubernetes/kops - Launching a Kubernetes cluster hosted on AWS
+
+
+## Serverless
+https://github.com/trek10inc/aws-lambda-debugger - lambda debugger
+
 
 ### CloudFormation
 https://github.com/stelligent/cloudformation_templates
